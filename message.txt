@@ -1,0 +1,7 @@
+Hello ${RECV_NAME},
+
+Hey this is ${SEND_NAME}
+This is the second attempt boi
+
+Yours Truly
+${SEND_NAME}
